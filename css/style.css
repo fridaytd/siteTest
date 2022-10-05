@@ -1,19 +1,25 @@
+body {
+    background-color: black;
+}
 .col1 {
     width: 19%;
     float: left;
-    border: 1px solid white;
+    border: 1px solid black;
     
+}
+h1 {
+    color: pink;
 }
 .col2 {
     width: 60%;
     float: left;
-    border: 1px solid white;
+    border: 1px solid black;
     text-align: center;
 }
 .col3 {
     width: 19%;
     float: left;
-    border: 1px solid white;
+    border: 1px solid black;
 }
 td,th {
     border: 5px solid lightblue;
